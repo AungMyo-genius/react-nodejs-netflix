@@ -1,4 +1,4 @@
- # live demo - https://react-nodejs-netflix-7582.vercel.app/
+
 
 # Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
 
@@ -10,5 +10,5 @@
 + Start React App
 
 
-## Watch it on [Youtube](https://www.youtube.com/watch?v=HgaJW2I4Mbk)
+
 
